@@ -1,16 +1,28 @@
 ### 安卓搬砖工厂
-[内容未填充](https://momubai.github.io/)
-[github](https://github.com/MoMuBai)
-> 作者：沐白，安卓搬砖工
 
-[Kamidox](http://blog.kamidox.com/category/android.html)
-> 作者：kamidox，编程/创业/心理学/方法论-大佬
+#### 好文精选
 
-[hongyang](http://blog.csdn.net/lmj623565791)
-[github](https://github.com/hongyangAndroid)
-> 作者：鸿洋，JavaEE/Android/Javascript/HTML5/MySQL/
-> Hadoop/Linuxz-大佬
+[简析Window、Activity、DecorView以及ViewRoot之间的错综关系](https://www.jianshu.com/p/8766babc40e0)
 
-[guolin](http://blog.csdn.net/guolin_blog)
-> 作者：郭霖，Android/Java/Ruby-大佬
-> 
+[WebView 的一切都在这儿](https://mp.weixin.qq.com/s/Rn7s31nxxY3vWnFRyjyjiA)
+
+[玩Android](http://www.wanandroid.com/article/list/0?cid=73)
+
+
+
+
+
+
+
+
+
+
+
+***
+#### 大佬们的博客和GitHub
+
+|  Blog  |  GitHub   |  Author  | Desc |
+|--------|--------|-------|-----------|
+| [hongyang](http://blog.csdn.net/lmj623565791) | [github](https://github.com/hongyangAndroid) |  鸿洋 |JavaEE/Android/Javascript/HTML5/MySQL/Hadoop/Linux
+|[Kamidox](http://blog.kamidox.com/category/android.html)|暂无| kamidox|编程/创业/心理学/方法论|
+|[guolin](http://blog.csdn.net/guolin_blog)|暂无|郭霖|Android/Java/Ruby|
