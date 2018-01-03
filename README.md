@@ -2,14 +2,15 @@
 
 #### 好文精选
 
-[简析Window、Activity、DecorView以及ViewRoot之间的错综关系](https://www.jianshu.com/p/8766babc40e0)
+* [简析Window、Activity、DecorView以及ViewRoot之间的错综关系](https://www.jianshu.com/p/8766babc40e0)
 
-[WebView 的一切都在这儿](https://mp.weixin.qq.com/s/Rn7s31nxxY3vWnFRyjyjiA)
+* [WebView 的一切都在这儿](https://mp.weixin.qq.com/s/Rn7s31nxxY3vWnFRyjyjiA)
 
-[玩Android](http://www.wanandroid.com/article/list/0?cid=73)
+* [玩Android](http://www.wanandroid.com/article/list/0?cid=73)
 
+* [Android微信智能心跳方案](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207243549&idx=1&sn=4ebe4beb8123f1b5ab58810ac8bc5994&scene=0#rd)
 
-
+* [探究Glide的自定义模块功能](https://mp.weixin.qq.com/s/Xhu9MoLEPSxfyFIjpLLLkA)
 
 
 
