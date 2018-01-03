@@ -13,7 +13,7 @@
 
 * [探究Glide的自定义模块功能](https://mp.weixin.qq.com/s/Xhu9MoLEPSxfyFIjpLLLkA)
 
-* [Python相关](https://github.com/MoMuBai/Blog/blob/master/python/python进程.md)
+* [Python相关](https://github.com/MoMuBai/Blog/blob/master/python/python相关.md)
 
 
 
