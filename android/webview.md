@@ -15,3 +15,5 @@
 * [WebView 无法打开天猫页面](http://ryanhoo.github.io/blog/2014/09/17/android-webview-setdomstorageenabled/)
 
 * [Android中WebView使用和WebSettings的属性](http://blog.csdn.net/javaandroid730/article/details/62424421)
+
+* [关于移动端html5的跨域问题](http://blog.csdn.net/zhaoxy_thu/article/details/17640183)
