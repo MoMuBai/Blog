@@ -17,3 +17,5 @@
 * [Android中WebView使用和WebSettings的属性](http://blog.csdn.net/javaandroid730/article/details/62424421)
 
 * [关于移动端html5的跨域问题](http://blog.csdn.net/zhaoxy_thu/article/details/17640183)
+
+* [android——webview开发：跨域请求问题的解决方式之一](http://blog.csdn.net/qq_32176125/article/details/75393783)
