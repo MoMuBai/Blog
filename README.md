@@ -8,6 +8,8 @@
 
 * [Android进程相关](https://github.com/MoMuBai/Blog/blob/master/android/android进程.md)
 
+* [Android技巧相关]()
+
 * [简析Window、Activity、DecorView以及ViewRoot之间的错综关系](https://www.jianshu.com/p/8766babc40e0)
 
 
