@@ -5,4 +5,4 @@
 
 * [Android最佳实践](https://github.com/tianzhijiexian/Android-Best-Practices)
 
-
+* [Android Studio小技巧合集](https://jaeger.itscoder.com/android/2016/02/14/android-studio-tips.html)
