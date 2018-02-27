@@ -13,4 +13,5 @@
 
 * [探究Glide的自定义模块功能](https://mp.weixin.qq.com/s/Xhu9MoLEPSxfyFIjpLLLkA)
 
-* [基于DLNA实现iOS，Android投屏](https://eliyar.biz/DLNA_with_iOS_Android/)
+* [基于DLNA实现Android投屏](https://www.jianshu.com/p/5a260182cc82)
+
