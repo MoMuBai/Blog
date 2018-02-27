@@ -1,5 +1,10 @@
 ### 安卓搬砖工厂
 
+#### 查看Git日志
+```
+git log --pretty=format:"%cn %ci %s" --after="$1" --before="$2" --grep="bug_fix\|bugfix\|feature"
+```
+
 #### 好文精选
 
 * [Android相关](https://github.com/MoMuBai/Blog/blob/master/android/_Android相关.md)
