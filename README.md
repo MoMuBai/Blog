@@ -1,23 +1,28 @@
 ### 安卓搬砖工厂
 
-#### 查看Git日志
+#### 根据日期查看Git提交日志
 ```
 git log --pretty=format:"%cn %ci %s" --after="$1" --before="$2" --grep="bug_fix\|bugfix\|feature"
 ```
 
 #### 好文精选
 
-* [Android相关](https://github.com/MoMuBai/Blog/blob/master/android/_Android相关.md)
+* [Android相关][1]
 
-* [Python相关](https://github.com/MoMuBai/Blog/blob/master/python/python相关.md)
+* [Python相关][2]
 
-* [iOS相关](https://github.com/MoMuBai/Blog/blob/master/iOS/iOS相关.md)
+* [iOS相关][3]
 
-* [微信小程序](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html?t=201822)
-
-
+* [微信小程序][4]
 
 
+[1]:android/_Android相关.md
+
+[2]:python/python相关.md
+
+[3]:ios/ios相关.md
+
+[4]:https://mp.weixin.qq.com/debug/wxadoc/dev/index.html?t=201822
 
 
 
