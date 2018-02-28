@@ -9,9 +9,9 @@
 
 * [Objective-C规范][3]
 
-[1]:  documents/cocoapods_guide.md
-[2]:  documents/ios_image_size.md
-[3]:  documents/objective-c-style-guide.md
+[1]:  Documents/cocoapods_guide.md
+[2]:  Documents/ios_image_size.md
+[3]:  Documents/objective-c-style-guide.md
 
 
 
