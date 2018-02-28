@@ -9,9 +9,12 @@
 
 * [Objective-C规范][3]
 
+* [DLNA设备投屏][4]
+
 [1]:  Documents/cocoapods_guide.md
 [2]:  Documents/ios_image_size.md
 [3]:  Documents/objective-c-style-guide.md
+[4]:  Documents/DLNA.md
 
 
 
