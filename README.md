@@ -20,7 +20,7 @@ git log --pretty=format:"%cn %ci %s" --after="$1" --before="$2" --grep="bug_fix\
 
 [2]:python/python相关.md
 
-[3]:ios/ios相关.md
+[3]:iOS/iOS相关.md
 
 [4]:https://mp.weixin.qq.com/debug/wxadoc/dev/index.html?t=201822
 
