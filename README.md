@@ -25,7 +25,7 @@ git log --pretty=format:"%cn %ci %s" --after="$1" --before="$2" --grep="bug_fix\
 
 [4]:https://mp.weixin.qq.com/debug/wxadoc/dev/index.html?t=201822
 
-[5]:other
+[5]:other/其他相关.md
 
 
 ***
