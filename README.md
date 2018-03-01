@@ -31,6 +31,7 @@ git log --pretty=format:"%cn %ci %s" --after="$1" --before="$2" --grep="bug_fix\
 ***
 #### 大佬们的博客和GitHub
 
+[阿里感悟](http://ifeve.com/alithink-interview/)
 
 
 |  Blog  |  GitHub   |  Author  | Desc |
@@ -38,6 +39,7 @@ git log --pretty=format:"%cn %ci %s" --after="$1" --before="$2" --grep="bug_fix\
 | [hongyang](http://blog.csdn.net/lmj623565791) | [github](https://github.com/hongyangAndroid) |  鸿洋 |JavaEE/Android/Javascript/HTML5/MySQL/Hadoop/Linux
 |[Kamidox](http://blog.kamidox.com/category/android.html)|暂无| kamidox|编程/创业/心理学/方法论|
 |[guolin](http://blog.csdn.net/guolin_blog)|暂无|郭霖|Android/Java/Ruby|
+
 
 
 
