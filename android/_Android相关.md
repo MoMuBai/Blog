@@ -17,6 +17,7 @@
 
 * [基于DLNA实现Android投屏](https://www.jianshu.com/p/5a260182cc82)
 
+* [Android路由跳转-ARouter使用](http://blog.csdn.net/zcmain/article/details/78190618)
 
 [1]:webview.md
 
