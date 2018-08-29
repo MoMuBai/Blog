@@ -39,8 +39,7 @@ git log --pretty=format:"%cn %ci %s" --after="$1" --before="$2" --grep="bug_fix\
 | [hongyang](http://blog.csdn.net/lmj623565791) | [github](https://github.com/hongyangAndroid) |  鸿洋 |JavaEE/Android/Javascript/HTML5/MySQL/Hadoop/Linux
 |[Kamidox](http://blog.kamidox.com/category/android.html)|暂无| kamidox|编程/创业/心理学/方法论|
 |[guolin](http://blog.csdn.net/guolin_blog)|暂无|郭霖|Android/Java/Ruby|
-
-
+|[杰风居](http://jayfeng.com/about/)|[github](https://github.com/openproject)|冯建|专注于Android的探索者|
 
 
 > 强烈推荐大神鸿洋的[www.wanandroid.com](http://www.wanandroid.com/index)
