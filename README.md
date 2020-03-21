@@ -15,7 +15,9 @@ git log --pretty=format:"%cn %ci %s" --after="$1" --before="$2" --grep="bug_fix\
 
 * [微信小程序][4]
 
-* [其他][5]
+* [礼物专线][5]
+
+* [其他][6]
 
 [1]:android/_Android相关.md
 
@@ -25,7 +27,9 @@ git log --pretty=format:"%cn %ci %s" --after="$1" --before="$2" --grep="bug_fix\
 
 [4]:https://mp.weixin.qq.com/debug/wxadoc/dev/index.html?t=201822
 
-[5]:other/其他相关.md
+[5]:https://github.com/MoMuBai/GiftForGirl
+
+[6]:other/其他相关.md
 
 
 ***
